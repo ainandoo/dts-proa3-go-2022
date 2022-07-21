@@ -1,6 +1,7 @@
-# dts-proa3-go
+# dts-proa3-go (versi Pengembangan)
 
 ## Belajar Git dan GitHub
+#### Peringatan !! Versi ini tidak stabil, jika ada error silakan dibetulkan sendiri
 
 1. Membuat akun GitHub.
 2. "Fork" repository dts-proa3-go.
