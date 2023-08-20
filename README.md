@@ -1,4 +1,4 @@
-# dts-proa3-go
+# dts-proa3-go-2022
 
 ## Belajar Git dan GitHub
 
